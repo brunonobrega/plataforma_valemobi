@@ -5,14 +5,14 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-		<a class="navbar-brand" href="../valemobi_plataforma/index.php"><img id="nav-img" src="../valemobi_plataforma/imagens/logo3.png"/></a>
+		<a class="navbar-brand" href="../plataforma_valemobi/index.php"><img id="nav-img" src="../plataforma_valemobi/imagens/logo3.png"/></a>
 		
 		<div id="navbar" class="collapse navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="../valemobi_plataforma/index.php">Início</a></li>
-				<li><a href="../valemobi_plataforma/cadastrar.php">Cadastrar Mercadoria</a></li>
-				<li><a href="../valemobi_plataforma/operacoes.php">Mercadorias Cadastradas</a></li>
-				<li><a href="../valemobi_plataforma/ajuda.php">Ajuda</a></li>
+				<li><a href="../plataforma_valemobi/index.php">Início</a></li>
+				<li><a href="../plataforma_valemobi/cadastrar.php">Cadastrar Mercadoria</a></li>
+				<li><a href="../plataforma_valemobi/operacoes.php">Mercadorias Cadastradas</a></li>
+				<li><a href="../plataforma_valemobi/ajuda.php">Ajuda</a></li>
 			</ul>
 		</div>
 </nav>

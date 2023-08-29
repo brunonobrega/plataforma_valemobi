@@ -1,9 +1,9 @@
 <?php 
 	
 	$servername = "localhost";
-	$username = "bit2b365_BRUNO";
-	$password = "valemobi@2017";
-	$dbname = "bit2b365_VALEMOBI";
+	$username = "SEU_USUARIO";
+	$password = "SUA_SENHA";
+	$dbname = "valemobi";
 
 	// Criar conexao
 	$conecta = mysqli_connect($servername, $username, $password, $dbname);

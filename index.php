@@ -68,7 +68,7 @@
 				  <div class="form-group col-sm-4">
 					<h4>Vendas</h4>
 					<div class="btn_sub">
-					  <a href="vendidas.php" class="btn btn-success btn-lg botao-index" role="button">
+					  <a href="operacoes.php" class="btn btn-success btn-lg botao-index" role="button">
 					  <?php echo "$num_vendas";?> </a>
 					</div>
 				  </div>
@@ -76,7 +76,7 @@
 				  <div class="form-group col-sm-4">
 					<h4>Compras</h4>
 					<div class="btn_sub">
-					  <a href="compradas.php" class="btn btn-success btn-lg botao-index" role="button">
+					  <a href="operacoes.php" class="btn btn-success btn-lg botao-index" role="button">
 					  <?php echo "$num_compras";?> </a>
 					</div>
 				  </div>
