@@ -12,9 +12,8 @@ Para rodar o projeto:
 5. Acessar seu servidor local "localhost/plataforma_valemobi".
 
 
-________________________________________________________________
+___
 
-# plataforma_valemobi
 Test platform for Valemobi job application, done in 2017
 
 The entire code in this repository were writen by Bruno Nobrega.
