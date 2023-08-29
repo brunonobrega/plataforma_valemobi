@@ -1,8 +1,8 @@
 <?php 
 	
 	$servername = "localhost";
-	$username = "SEU_USUARIO";
-	$password = "SUA_SENHA";
+	$username = "bruno";
+	$password = "aJ7xlxnLDeANnKc@";
 	$dbname = "valemobi";
 
 	// Criar conexao
